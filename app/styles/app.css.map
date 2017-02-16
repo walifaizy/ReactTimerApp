@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "file": "app.css",
+  "sources": [
+    "app.scss",
+    "base/_variables.scss",
+    "components/_navigation.scss"
+  ],
+  "mappings": ";AEAA,AAAA,QAAQ;AACR,AAAS,QAAD,CAAC,EAAE,CAAC;EACR,gBAAgB,EDDb,OAAO,GCEb;;;AAED,AACI,QADI,CACJ,UAAU,CAAC;EACP,KAAK,EDHI,OAAO,GCInB;;;AAHL,AAIa,QAJL,CAIJ,KAAK,GAAC,EAAE,GAAC,CAAC,CAAC;EACP,OAAO,EAAE,MAAO;EAChB,OAAO,EAAE,SAAU;EACnB,WAAW,EAAE,CAAE,GAClB;;;AARL,AASI,QATI,CASJ,YAAY,CAAC;EACT,WAAW,EAAE,MAAO;EACpB,SAAS,EAAE,KAAM;EACjB,UAAU,EAAE,KAAM;EAClB,aAAa,EAAE,iBAAkB,GACpC",
+  "names": []
+}

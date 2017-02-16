@@ -1,0 +1,23 @@
+/* line 1, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_navigation.scss */
+.top-bar,
+.top-bar ul {
+  background-color: #333333; }
+
+/* line 7, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_navigation.scss */
+.top-bar .menu-text {
+  color: #ffffff; }
+
+/* line 10, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_navigation.scss */
+.top-bar .menu > li > a {
+  display: inline;
+  padding: 1rem 1rem;
+  line-height: 1; }
+
+/* line 15, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_navigation.scss */
+.top-bar .active-link {
+  font-weight: bolder;
+  font-size: 1.2em;
+  background: white;
+  border-bottom: 2px solid #000000; }
+
+/*# sourceMappingURL=app.css.map */
