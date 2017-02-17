@@ -19,7 +19,7 @@ var Clock = React.createClass({
             minutes = "0" + minutes;
         }
 
-        return parseInt(minutes + ":" + seconds);
+        return minutes + ":" + seconds;
     },
 
     render: function() {
