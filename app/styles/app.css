@@ -29,12 +29,24 @@
   display: flex;
   height: 14rem;
   justify-content: center;
-  margin: 4rem auto; }
+  margin: 4rem auto;
+  width: 14rem; }
 
-/* line 12, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_clock.scss */
+/* line 13, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_clock.scss */
 .clock-text {
   color: #ffffff;
   font-size: 2.25rem;
   font-weight: 300; }
+
+/* line 1, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_controls.scss */
+.controls {
+  display: flex;
+  justify-content: center; }
+  /* line 4, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_controls.scss */
+  .controls .button {
+    padding: .75rem 3rem; }
+  /* line 7, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_controls.scss */
+  .controls .button:first-child {
+    margin-right: 1.5rem; }
 
 /*# sourceMappingURL=app.css.map */
