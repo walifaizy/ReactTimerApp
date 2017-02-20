@@ -49,4 +49,9 @@
   .controls .button:first-child {
     margin-right: 1.5rem; }
 
+/* line 1, C:/Users/Zenul/Desktop/ReactTimer/app/styles/components/_page-title.scss */
+.page-title {
+  margin: 2rem 0;
+  text-align: center; }
+
 /*# sourceMappingURL=app.css.map */
